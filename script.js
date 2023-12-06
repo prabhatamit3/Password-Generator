@@ -19,7 +19,7 @@ function generatePassword(){
 function copyPassword(){
     //passwordBox.select();
     navigator.clipboard.writeText(passwordBox.value);
-    document.getElementById('copyclick').
+    
       
 }
 generatePassword();
